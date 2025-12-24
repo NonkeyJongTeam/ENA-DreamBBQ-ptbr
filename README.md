@@ -8,9 +8,6 @@
 [![Download](https://img.shields.io/badge/TRADUÇÃO_3.0_legenda_pt_br-AQUI-blue?style=for-the-badge&logo=google-drive&logoColor=white
 )](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
 
-[![Janela XP](assets/janela_xp_traducao.gif)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
-
-
 <div align="">
 
 <table>
