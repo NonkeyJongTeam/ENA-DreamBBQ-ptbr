@@ -4,6 +4,14 @@
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 um jogo criado por JoelG. <br>
 </div>
 
+<div align="center">
+ <p>⚠️ LEGENDA:<br>
+  </div>
+  
+###  oh Lee:
+
+  A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
     <img src="xp_ena1.png" width="200">
@@ -42,11 +50,15 @@
 ---
 
 ### ⚠️ Aviso importante:
+
+❓ Dúvidas ou problemas?
+Entre em contato com a gente pelo nosso servidor do Discord:
+🔗 https://discord.gg/PHsBwktt
+
 Temos notado que a tradução está circulando por meio de uploads não oficiais.
 Pedimos que não façam isso, pois é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. É por isso que privamos versões antigas.
-Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso Drive e/ou do nosso servidor.
+Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso Github e/ou do nosso servidor no Discord.
 Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
-
 
 ---
 
