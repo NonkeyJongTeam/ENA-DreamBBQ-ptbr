@@ -11,13 +11,23 @@
 
  ---
 <div align="center">
-⚠️ DUBLAGEM:
+ <p>⚠️ DUBLAGEM:<br>
   </div>
-  O mod conta com duas versões:
+  
+###  O mod conta com duas versões:
+
+<a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
+  <img src="https://media.tenor.com/C5bNE0YMco0AAAAM/ena-dream-bbq-ena.gif" width="200">
+</a>
+
+
+  
+
 
 🔹Uma que mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.
+(Recomendado casoseja sua primeira experiencia)
 
-🔸E outra em que todos os personagens, independentemente do idioma, estarão dublados (para você que já jogou e quer uma nova experiência com Ena). 
+🔸E outra em que todos os personagens, independentemente do idioma, estarão dublados (Para você que já jogou e quer uma nova experiência com Ena). 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
