@@ -8,7 +8,18 @@
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
     <img src="xp_ena1.png" width="200">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ ---
+<div align="center">
+⚠️ DUBLAGEM:
+  </div>
+  O mod conta com duas versões:
+
+🔹Uma que mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.
+
+🔸E outra em que todos os personagens, independentemente do idioma, estarão dublados (para você que já jogou e quer uma nova experiência com Ena). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
     <img src="xp_ena1.png" width="200">
   </a>
@@ -20,7 +31,7 @@
 
 
 
-
+---
 
 ### ⚠️ Aviso importante:
 Temos notado que a tradução está circulando por meio de uploads não oficiais.
