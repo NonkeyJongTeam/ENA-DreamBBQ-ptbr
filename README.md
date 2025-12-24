@@ -5,8 +5,8 @@
 </div>
 
 
-[![Download](https://img.shields.io/badge/TRADUÇÃO_3.0_legenda_pt_br-AQUI-blue?style=for-the-badge&logo=google-drive&logoColor=white
-)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
+[![Tradução PT-BR](xp_ena1.png)](https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view)
+
 
 <div align="">
 
