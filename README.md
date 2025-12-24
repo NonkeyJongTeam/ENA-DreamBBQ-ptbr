@@ -16,9 +16,7 @@
   
 ###  O mod conta com duas versões:
 
-<a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
-  <img src="https://media.tenor.com/C5bNE0YMco0AAAAM/ena-dream-bbq-ena.gif" width="200">
-</a>
+
 
 
   
