@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1>Nonkey Jong Montou Time De Traduções!</h1>
-  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 <br>
+  <h1>Nonkey Jong Montou Time De Traduções</h1>
+  <p>Fã tradução do jogo: ENA: Dream BBQ, um jogo criado por Joel G.<br>
 </div>
 
 <div align="center">
