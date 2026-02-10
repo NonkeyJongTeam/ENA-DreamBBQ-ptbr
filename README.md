@@ -56,7 +56,7 @@
 ### ⚠️ Aviso importante:
 
 ❓ Dúvidas ou problemas?
-Entre em contato com a gente pelo nosso servidor do Discord:
+Entre em contato com a gente pelo nosso servidor do Discord:<br>
 🔗 https://discord.gg/PHsBwktt
 
 Temos notado que a tradução está circulando por meio de uploads não oficiais.
