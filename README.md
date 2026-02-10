@@ -57,7 +57,11 @@
  <p>⚠️ Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe. ⚠️<br>
 Esse trabalho não seria possivel sem a contribuição desse pessoal.
   </div>
-  
+<b>Programação:</b> Zoti, Solurio, Demetrius<br>
+<b>Vídeos e Imagens:</b> Iggy, Zoti, Pasokad<br>
+<b>Tradução:</b> Iggy, Zoti, Demetrius, Sam, G4bs, Miint<br>
+<b>Revisão:</b> Apolo, Demetrius<br>
+
 ### ⚠️ Aviso importante:
 
 ❓ Dúvidas ou problemas?
