@@ -57,11 +57,19 @@
 
 ### Créditos Capítulo 1:
 
-<b>Programação:</b> Zoti, Solurio, Demetrius<br>
-<b>Vídeos e Imagens:</b> Iggy, Zoti, Pasokad<br>
-<b>Tradução:</b> Iggy, Zoti, Demetrius, Sam, Pasokad<br>
-<b>Revisão:</b> Apolo, Demetrius<br>
-<b>Ajuda em 3D:</b> Abigail_8bits, Bixin<br>
+<b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
+<b>Solurio</b> ▸ Programação<br>
+<b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
+<b>Iggy</b> ▸ Tradução 〢 Vídeos e Imagens<br>
+<b>Pasokad</b> ▸ Tradução 〢 Vídeos e Imagens<br>
+<b>Sam</b> ▸ Tradução<br>
+<b>Apolo</b> ▸ Revisão<br><br>
+<b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
+<b>Bixin</b> ▸ Ajuda em 3D
+ 
+
+ 
+ 
 
 ---
 
@@ -72,9 +80,10 @@
 Esse trabalho não seria possivel sem a contribuição desse pessoal.
   </div>
 
-❓ Dúvidas ou problemas?
+? Dúvidas ou problemas?
 Entre em contato com a gente pelo nosso servidor do Discord:<br>
-🔗 https://discord.gg/PHsBwktt
+⫘ https://discord.gg/Jnm23pZkuC<br>
+ 𝕏 https://x.com/nonkeyjongtrans
 
 Temos notado que a tradução está circulando por meio de uploads não oficiais.
 Pedimos que não façam isso, pois é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. É por isso que privamos versões antigas.
