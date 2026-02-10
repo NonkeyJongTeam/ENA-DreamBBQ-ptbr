@@ -1,16 +1,15 @@
 
 <div align="center">
   <h1>Nós somos a equipe Nonkey Jong Team!</h1>
-  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 um jogo criado por JoelG. <br>
+  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 um jogo criado por Joel G. <br>
 </div>
 
 <div align="center">
- <p>⚠️ LEGENDA:<br>
+ <p>Agora em 3 versões: Legendado, dublado e parcialmente dublado.<br>
   </div>
   
-###  ROnaldo:
-
-  A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
+### Legendado:
+💼 <b>Legenda</b> — Inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
@@ -18,24 +17,14 @@
   </a>
 
  ---
-<div align="center">
- <p>⚠️ DUBLAGEM:<br>
-  </div>
-  
-###  O mod conta com duas versões:
 
-
-
-
-  
-
-
-🔹 <b>Dublagem Parcial</b> — mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
+### Dublado:
+🔹 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
 <small>(Recomendado caso seja sua primeira experiência)</small>
 
 <br>
 
-🔸 <b>Dublagem Completa</b> — todos os personagens, independentemente do idioma, estarão dublados.  
+🔸 <b>Dublagem Completa</b> — Todos os personagens, independentemente do idioma, estarão dublados.  
 <small>(Para você que já jogou e quer uma nova experiência com Ena)</small>
 
 
@@ -49,9 +38,24 @@
   </a>
 </p>
 
-
-
 ---
+
+### Créditos:
+
+<div align="center">
+ <p>⚠️ Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe. ⚠️
+E esse trabalho não teria sido possivel sem a contribuição desse pessoal.<br>
+  </div>
+
+<b>Programação:</b> Zoti, Solurio, Demetrius
+<b>Vídeos e Imagens:</b> Iggy, Zoti, Pasokad
+<b>Tradução:</b> Iggy, Zoti, Demetrius, Sam, G4bs, Miint, Dionysus
+<b>Revisão:</b> Apolo, Demetrius
+
+Nós acompanhem em nossas redes sociais!
+𝕏 https://x.com/nonkeyjongtrans
+🎬 https://www.youtube.com/@NonkeyJongTeam
+xxxx
 
 ### ⚠️ Aviso importante:
 
@@ -62,7 +66,7 @@ Entre em contato com a gente pelo nosso servidor do Discord:
 Temos notado que a tradução está circulando por meio de uploads não oficiais.
 Pedimos que não façam isso, pois é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. É por isso que privamos versões antigas.
 Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso Github e/ou do nosso servidor no Discord.
-Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
+Nós <b>NÃO</b> nos responsabilizamos por quaisquer danos à sua segurança vindo de outras versões. Cuidar com links diretos vindo de meios 
 
 ---
 
