@@ -53,18 +53,23 @@
 
 
 ---
+
 ### Créditos Capítulo 1:
-<div align="center">
- <p>⚠️ Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe. ⚠️<br>
-Esse trabalho não seria possivel sem a contribuição desse pessoal.
-  </div>
+
 <b>Programação:</b> Zoti, Solurio, Demetrius<br>
 <b>Vídeos e Imagens:</b> Iggy, Zoti, Pasokad<br>
 <b>Tradução:</b> Iggy, Zoti, Demetrius, Sam, Pasokad<br>
 <b>Revisão:</b> Apolo, Demetrius<br>
-<b>Ajuda em 3D:</b> Abigail_8bits, Bixi<br>
+<b>Ajuda em 3D:</b> Abigail_8bits, Bixin<br>
+
 ---
+
 ### ⚠️ Aviso importante:
+
+<div align="center">
+ <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G e sua equipe.<br>
+Esse trabalho não seria possivel sem a contribuição desse pessoal.
+  </div>
 
 ❓ Dúvidas ou problemas?
 Entre em contato com a gente pelo nosso servidor do Discord:<br>
