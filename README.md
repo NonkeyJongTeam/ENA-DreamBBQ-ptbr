@@ -1,11 +1,11 @@
 
 <div align="center">
-  <h1>Nós somos a equipe Nonkey Jong Team!</h1>
-  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 um jogo criado por JoelG. <br>
+  <h1>Nonkey Jong Montou Time De Traduções!</h1>
+  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 <br>
 </div>
 
 <div align="center">
- <p>⚠️ LEGENDA:<br>
+ <p>Um jogo criado por Joel G.<br>
   </div>
   
 ###  LEGENDA:
