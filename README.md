@@ -3,6 +3,7 @@
   <h1>Nós somos a equipe Nonkey Jong Team</h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭 Um jogo criado por Joel G. <br>
 </div>
+
  ---
 <div align="center">
  <p>Um jogo criado por Joel G.<br>
