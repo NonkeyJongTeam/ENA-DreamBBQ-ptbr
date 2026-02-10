@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
- <p>Agora em 3 versões: Legendado, dublado e parcialmente dublado.<br>
+ <p>⚠️ LEGENDA:<br>
   </div>
   
-###  Legendado:
+###  oh Lee:
 
-💼 <b>Legenda</b> — Inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
+  A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
@@ -18,14 +18,24 @@
   </a>
 
  ---
+<div align="center">
+ <p>⚠️ DUBLAGEM:<br>
+  </div>
+  
+###  O mod conta com duas versões:
 
-###  Dublado:
-🔹 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
+
+
+
+  
+
+
+🔹 <b>Dublagem Parcial</b> — mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.  
 <small>(Recomendado caso seja sua primeira experiência)</small>
 
 <br>
 
-🔸 <b>Dublagem Completa</b> — Todos os personagens, independentemente do idioma, estarão dublados.  
+🔸 <b>Dublagem Completa</b> — todos os personagens, independentemente do idioma, estarão dublados.  
 <small>(Para você que já jogou e quer uma nova experiência com Ena)</small>
 
 
