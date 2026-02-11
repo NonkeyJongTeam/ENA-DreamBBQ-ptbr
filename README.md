@@ -11,7 +11,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total)
 <br>
-![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans)
+[![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA)](https://www.youtube.com/@NonkeyJongTeam)
 </div>
 <div align="center">
