@@ -61,7 +61,7 @@ Aí é foda. <br>
 Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
-<b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
+<b>[Zoti](https://www.youtube.com/@Zoti_)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
 <b>Iggy</b> ▸ Tradução 〢 Vídeos e Imagens<br>
 <b>Pasokad</b> ▸ Tradução 〢 Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
