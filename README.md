@@ -63,7 +63,7 @@ Temos notado que a tradução está circulando por meio de uploads não oficiais
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>Zoti</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
 <b>Iggy</b> ▸ Tradução 〢 Vídeos e Imagens<br>
-<b>Pasokad</b> ▸ Tradução 〢 Vídeos e Imagens<br>
+<b>Pasokad</b> ▸ Vídeos e Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
 <b>Solurio</b> ▸ Programação<br>
 <b>Apolo</b> ▸ Revisão<br><br>
