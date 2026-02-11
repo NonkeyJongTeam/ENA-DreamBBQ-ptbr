@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <h1> <img src="br_jongs.png" width="60"> <br>  Nós somos a equipe Nonkey Jong Team</h1>
+  <h1> <img src="br_jongs.png" width="200"> <br> Nós somos a Nonkey Jong Team</h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
   Por Joel Guerra
   
