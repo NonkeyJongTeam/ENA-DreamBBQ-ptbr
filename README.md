@@ -12,7 +12,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total)
 <br>
 ![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA)](https://www.youtube.com/@NonkeyJongTeam)
 </div>
 <div align="center">
  <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe.<br><br>
