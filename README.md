@@ -7,7 +7,9 @@
   Por Joel Guerra
   
 
-[![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord)](https://discord.gg/WDAzMdNwxn)<br>
+
+
+[![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord)](https://discord.gg/WDAzMdNwxn)<br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total)
 <br>
