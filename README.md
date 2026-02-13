@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <h1> Nós somos a Nonkey Jong Team  <br> <img src="br_jongs.png" width="50"></h1>
+  <h1> Nonkey Jong Team <br> <img src="br_jongs.png" width="50"></h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
   Por Joel Guerra
   
@@ -11,7 +11,9 @@
 
 [![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord&color=7289da)](https://discord.gg/WDAzMdNwxn)<br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team?style=flat&label=Tamanho%20)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)<br>
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)
+<br>
+![Static Badge](https://img.shields.io/badge/1-green?label=Cap%C3%ADtulo)
 ![Static Badge](https://img.shields.io/badge/Linux-gren)
 ![Static Badge](https://img.shields.io/badge/WIndows-gren)
 ![Static Badge](https://img.shields.io/badge/MacOS-red?label=Indispon%C3%8Dvel)
@@ -79,6 +81,3 @@ Aí é foda. <br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
  
  ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalaho a todos os recém-empregados deste ano e um feliz 2026!!!</small>
- ![Static Badge](https://img.shields.io/badge/Trad%204.03-grey?style=plastic&label=Ver.&labelColor=%23fbfae3&color=%23CC1F30)
-![Static Badge](https://img.shields.io/badge/P.Dub%204.04-grey?style=plastic&label=Ver.&labelColor=%23A0D4EB&color=%23BD2839)
-![Static Badge](https://img.shields.io/badge/Dub%204.04-grey?style=plastic&label=Ver.&labelColor=%23141414&color=%23276a24)
