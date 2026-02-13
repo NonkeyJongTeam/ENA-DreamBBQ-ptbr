@@ -11,7 +11,10 @@
 
 [![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord&color=7289da)](https://discord.gg/WDAzMdNwxn)<br>
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Zoti-n/Nonkey-Jong-Team?style=flat&label=Tamanho%20)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zoti-n/Nonkey-Jong-Team/total?style=flat&label=Download)<br>
+![Static Badge](https://img.shields.io/badge/Linux-gren)
+![Static Badge](https://img.shields.io/badge/WIndows-gren)
+![Static Badge](https://img.shields.io/badge/MacOS-red?label=Indispon%C3%8Dvel)
 <br>
 [![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans?&logo=x&label=nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
@@ -32,7 +35,7 @@
   </a>
   <br> <br> 
 
-🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas os personagens originalmente em inglês para o português.
+🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas os personagens falantes originais de inglês para o português.
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br> 
 
@@ -51,18 +54,18 @@
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ENA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA-4-DreamBBQ_Data" e confirme em substituir para todos os arquivos.*<br><br>
-    * *Ficou confuso? Pera que tem vídeo [Aqui](https://discord.gg/pxX6cnkHV7)!* <br>
+    * *Ficou confuso? Pera que tem vídeo [Aqui](https://discord.gg/pxX6cnkHV7)!* <br><br>
 #### Dúvidas ou problemas? <br>
 Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servidor do Discord na aba [#ajuda-e-sugestões](https://discord.gg/pxX6cnkHV7), lá nós poderemos lhe ajudar pessoalmente com o seu problema. 🤙<br><br>
 ## Problemas conhecidos e considerações
-* #### Linux <br>
-É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80).<br>
-* #### Mac <br>
-Aí é foda. <br>
 * #### Links diretos
-Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões.
+Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões. <br>
 * #### Dublagem
-Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem **Ghost Clematis** e **Void Dublagens**. Nós só a colocamos no jogo, então todos os créditos e direitos são deles pela versões dubladas.
+Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem **Ghost Clematis** e **Void Dublagens**. Nós só a colocamos no jogo, então todos os créditos e direitos são deles pela versões dubladas. <br>
+* #### Linux
+É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80).<br>
+* #### Mac 
+Aí é foda. <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://www.youtube.com/@Zoti_)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
