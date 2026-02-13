@@ -70,8 +70,8 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 <b>Pasokad</b> ▸ Tradução 〢 Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
 <b>Solurio</b> ▸ Programação<br>
-<b>Apolo</b> ▸ Revisão<br><br>
-<b>Dionysus</b> ▸ Tradução<br>
+<b>Apolo</b> ▸ Revisão<br>
+<b>Dionysus</b> ▸ Tradução<br><br>
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
  
