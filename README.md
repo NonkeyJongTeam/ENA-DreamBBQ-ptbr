@@ -71,9 +71,9 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 <b>Sam</b> ▸ Tradução<br>
 <b>Solurio</b> ▸ Programação<br>
 <b>Apolo</b> ▸ Revisão<br><br>
+<b>Dionysus</b> ▸ Tradução<br>
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
-<b>Dionysus</b> ▸ Tradução
  
  ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalaho a todos os recém-empregados deste ano e um feliz 2026!!!</small>
  ![Static Badge](https://img.shields.io/badge/Trad%204.03-grey?style=plastic&label=Ver.&labelColor=%23fbfae3&color=%23CC1F30)
