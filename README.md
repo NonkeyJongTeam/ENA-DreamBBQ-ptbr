@@ -35,6 +35,7 @@
         <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk" target="_blank">
         <img src="xp_ena_legenda.png" width="200">
       </td>
     </tr>
@@ -50,7 +51,9 @@
 <br> 
       </td>
       <td>
-        <img src="xp_ena_parcial.png" width="200">
+        <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk" target="_blank">
+  <img src="xp_ena_parcial.png" width="200">
+</a>
       </td>
     </tr>
   </table>
@@ -60,9 +63,10 @@
   <table>
     <tr>
       <td>
-        🔶 <b>Dublagem Completa</b> — Todos os personagens,<br>independentemente do idioma, estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens, independentemente do idioma, <br>estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk" target="_blank">
         <img src="xp_ena_completa.png" width="200">
       </td>
     </tr>
