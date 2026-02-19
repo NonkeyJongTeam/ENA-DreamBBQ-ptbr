@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
-    <img src="xp_ena_legenda.png" width="200">
+   <p align="right"> <img  src="xp_ena_legenda.png" width="200">
   </a>
   <br> <br> 
 
@@ -40,14 +40,14 @@
 
 <p align="center">
   <a href="">
-    <img src="xp_ena_parcial.png" width="200">
+   <p align="right"> <img src="xp_ena_parcial.png" width="200">
   </a>
 
 
 🔶 <b>Dublagem Completa</b> — Todos os personagens,<br>independentemente do idioma, estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
  <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="xp_ena_completa.png" width="200">
+   <p align="right"> <img src="xp_ena_completa.png" width="200">
   </a>
 </p>
 
