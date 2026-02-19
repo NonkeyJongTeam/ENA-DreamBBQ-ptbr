@@ -26,13 +26,23 @@
 ###### O jogo atualmente conta com 3 versões do 1° capítulo.
 
 
-♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br><small>(Caso você queira *saborear* as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>
+        textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+        <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+      </td>
+      <td>
+        <img src="xp_ena_legenda.png" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
-   <p align="right"> <img  src="xp_ena_legenda.png" width="200">
-  </a>
-  <br> <br> 
+
+
 
 🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
 <small>(Recomendado caso seja sua primeira experiência)</small>
