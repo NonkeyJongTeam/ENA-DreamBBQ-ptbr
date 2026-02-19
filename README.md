@@ -10,13 +10,13 @@
 
 
 [![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord&color=7289da)](https://discord.gg/WDAzMdNwxn)<br>
-![Static Badge](https://img.shields.io/badge/Linux-brightgreen?label=Dispon%C3%ADvel)
-![Static Badge](https://img.shields.io/badge/Windows-brightgreen?label=Dispon%C3%ADvel)
-![Static Badge](https://img.shields.io/badge/MacOS-red?label=Indispon%C3%8Dvel)
+![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&color=%23317a91)
+![Static Badge](https://img.shields.io/badge/LInux-brightgreen)
+![Static Badge](https://img.shields.io/badge/Windows-brightgreen)
+![Static Badge](https://img.shields.io/badge/MacOS-red)
 <br>
 [![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans?&logo=x&label=nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
-![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&color=%23317a91)
 </div>
 <div align="center">
  <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe.<br><br>
