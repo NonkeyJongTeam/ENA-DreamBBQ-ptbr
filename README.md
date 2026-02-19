@@ -41,25 +41,33 @@
   </table>
 </div>
 
-
-
-
-🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br> 
+      </td>
+      <td>
+        <img src="xp_ena_parcial.png" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="">
-   <p align="right"> <img src="xp_ena_parcial.png" width="200">
-  </a>
-
-
-🔶 <b>Dublagem Completa</b> — Todos os personagens,<br>independentemente do idioma, estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
- <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-   <p align="right"> <img src="xp_ena_completa.png" width="200">
-  </a>
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens,<br>independentemente do idioma, estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
+      </td>
+      <td>
+        <img src="xp_ena_completa.png" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
 
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ENA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
