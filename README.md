@@ -26,7 +26,7 @@
 ###### O jogo atualmente conta com 3 versões do 1° capítulo.
 
 
-♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos. <small>(Caso você queira *saborear* as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br><small>(Caso você queira *saborear* as falas originais, Vanilla, do jeito que veio ao mundo)</small>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view">
@@ -34,22 +34,23 @@
   </a>
   <br> <br> 
 
-🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas os personagens falantes originais de inglês para o português.
+🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
   <a href="">
     <img src="xp_ena_parcial.png" width="200">
   </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+🔶 <b>Dublagem Completa</b> — Todos os personagens,<br>independentemente do idioma, estarão dublados. <br><small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
+ <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="xp_ena_completa.png" width="200">
   </a>
 </p>
 
-🔶 <b>Dublagem Completa</b> — Todos os personagens, independentemente do idioma, estarão dublados.  <small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
-## Passo 2: Como instalar
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ENA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA-4-DreamBBQ_Data" e confirme em substituir para todos os arquivos.*<br><br>
