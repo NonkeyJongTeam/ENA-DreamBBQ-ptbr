@@ -11,7 +11,6 @@
 
 [![Discord](https://img.shields.io/discord/1355536478704373972?style=flat&logo=discord&label=Discord&color=7289da)](https://discord.gg/WDAzMdNwxn)<br>
 ![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&color=%23317a91)
-![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&labelColor=%23317a91)
 ![Static Badge](https://img.shields.io/badge/Linux-gren)
 ![Static Badge](https://img.shields.io/badge/WIndows-gren)
 ![Static Badge](https://img.shields.io/badge/MacOS-red?label=Indispon%C3%8Dvel)
