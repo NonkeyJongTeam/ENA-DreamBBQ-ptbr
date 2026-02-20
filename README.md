@@ -78,7 +78,7 @@
   </table>
 </div>
            
-## Como Instalar a tradução?   
+## Passo 2: Como Instalar a tradução?   
 ###### <i>(heh heh heh heh heh)<i>
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ENA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
