@@ -31,8 +31,8 @@
     <tr>
       <td>
         ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>
-        textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.ㅤㅤ<br>
-        <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+<small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
       </td>
       <td>
          <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk" target="_blank">
@@ -78,14 +78,21 @@
   </table>
 </div>
 
+<img src="xp_ena_legenda.png" align="right" width="200">
+        ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>
+textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+<small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+<br><br><br><br>
+
 <img src="xp_ena_parcial.png" align="right" width="200">
-        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
+        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br> 
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br><br><br><br>
-<img src="xp_ena_completa.png" align="right" width="200">
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small><br><br>
-        
 
+<img src="xp_ena_completa.png" align="right" width="200">
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small>
+<br><br>
+        
 ## Passo 2: Como Instalar a tradução?   
 ###### <i>(heh heh heh heh heh)<i>
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
