@@ -31,7 +31,7 @@
     <tr>
       <td>
         ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,<br>
-        textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+        textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.ㅤㅤ<br>
         <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
       </td>
       <td>
