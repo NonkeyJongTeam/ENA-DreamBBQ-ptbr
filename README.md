@@ -78,8 +78,12 @@
   </table>
 </div>
 
+<img src="xp_ena_parcial.png" align="right" width="200">
+        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,<br>dublando apenas os personagens falantes originais de inglês para o português.<br>
+<small>(Recomendado caso seja sua primeira experiência)</small>
+<br><br><br><br>
 <img src="xp_ena_completa.png" align="right" width="200">
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, <br>independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small><br><br>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small><br><br>
         
 
 ## Passo 2: Como Instalar a tradução?   
