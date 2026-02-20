@@ -68,7 +68,7 @@
   <table>
     <tr>
       <td>
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, <br>independentemente do idioma.<br> <small>(Para você que já jogou e quer uma nova experiência com Ena)</small><br><br>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, <br>independentemente do idioma.<br> <small>(Para você que já jogou e quer dar algumas risadas com essa nova experiência de Ena)</small><br><br>
       </td>
       <td>
          <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk" target="_blank">
