@@ -60,7 +60,7 @@
 </div>
 
  
- <div align="center"> ~Extra~
+ <div align="center"> ~Extra~ <div align="center">
 
 
 
