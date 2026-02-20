@@ -77,7 +77,11 @@
     </tr>
   </table>
 </div>
-           
+
+<img src="xp_ena_completa.png" align="right" width="200">
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, <br>independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small><br><br>
+        
+
 ## Passo 2: Como Instalar a tradução?   
 ###### <i>(heh heh heh heh heh)<i>
 1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
