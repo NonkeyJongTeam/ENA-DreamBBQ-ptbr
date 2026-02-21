@@ -79,7 +79,7 @@ textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos text
 </div>
 
 <br>
-<img src="xp_ena_legenda.png" align="right" width="200">
+<img src="xp_ena_legenda.png" align="right" width="200"> 
         ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
 <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
 <br><br><br>
