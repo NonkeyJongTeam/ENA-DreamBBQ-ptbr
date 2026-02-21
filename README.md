@@ -13,7 +13,7 @@
 [![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&color=%23317a91)](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ)
 ![Static Badge](https://img.shields.io/badge/Linux%20Mint-green?color=%2392b662)
 ![Static Badge](https://img.shields.io/badge/Windows-green?color=%230178d6)
-![Static Badge](https://img.shields.io/badge/N%C3%A3o%20tem%20MacOS-green?color=red)
+![Static Badge](https://img.shields.io/badge/Sem%20MacOS-green?color=red)
 <br>
 [![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans?&logo=x&label=nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
