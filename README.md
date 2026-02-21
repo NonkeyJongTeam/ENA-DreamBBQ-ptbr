@@ -80,15 +80,15 @@ textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos text
 
 <br>
 <img src="xp_ena_legenda.png" align="right" width="200">
-        🔴 <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+        ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
 <small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
 <br><br><br>
 <img src="xp_ena_parcial.png" align="right" width="200">
-        🔵 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,dublando apenas os personagens falantes originais de inglês para o português.<br> 
+        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas,dublando apenas os personagens falantes originais de inglês para o português.<br> 
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br><br><br>
 <img src="xp_ena_completa.png" align="right" width="200">
-        🟢 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small>
 <br><br><br>
         
 ## Passo 2: Como Instalar a tradução?   
