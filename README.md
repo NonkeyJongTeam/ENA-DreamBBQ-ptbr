@@ -62,7 +62,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 Aí é foda. <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
-<b>[Zoti](https://www.youtube.com/@Zoti_)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
+<b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
 <b>Iggy</b> ▸ Tradução 〢 Vídeos e Imagens<br>
 <b>Pasokad</b> ▸ Tradução 〢 Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
