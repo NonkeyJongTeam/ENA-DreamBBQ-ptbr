@@ -71,4 +71,4 @@ No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
  
- ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os recém-empregados deste ano e um feliz ENA DAY 2026!!!</small>
+ ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os recém-empregados deste ano e um feliz ƎNA DAY 2026!!!</small>
