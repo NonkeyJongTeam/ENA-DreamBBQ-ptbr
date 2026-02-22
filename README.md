@@ -54,7 +54,7 @@ Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servid
 * #### Links diretos
 Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões. <br>
 * #### Dublagem
-Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem **Ghost Clematis** e **Void Dublagens**. Nós só a colocamos no jogo, então todos os créditos e direitos são deles pela versões dubladas. <br>
+Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem [**Ghost Clematis**](https://www.youtube.com/@voiddublagens) e **Void Dublagens**. Nós só a colocamos no jogo, então todos os créditos e direitos são deles pela versões dubladas. <br>
 * #### Linux (Mint)
 É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80). Estamos buscando informações de feedbacks acerca do funcionamento do mod em outras distros Linux, caso você queira colaborar e/ou saiba de informações sobre o assunto ficaremos gratos em conversar.<br>
 * #### Mac 
