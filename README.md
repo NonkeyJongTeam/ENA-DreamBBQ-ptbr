@@ -39,13 +39,13 @@
 <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk">
 <img src="xp_ena_completa.png" align="right" width="200"> <br>
 </a> 
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ena)</small>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ǝna)</small>
 <br><br><br>
         
 ## Passo 2: Como Instalar a tradução?   
 ###### <i>(heh heh heh heh heh)</i>
-1. Abra a pasta onde você baixou *ENA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
-    * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ENA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
+1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
+    * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ƎNA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA-4-DreamBBQ_Data" e confirme em substituir para todos os arquivos.*<br><br>
     * *Ficou confuso? Pera que tem vídeo [Aqui](https://www.youtube.com/watch?v=K19Bynj_AXo)!* <br><br>
 #### Dúvidas ou problemas? <br>
