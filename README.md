@@ -28,7 +28,7 @@
  <img src="xp_ena_legenda.png" align="right" width="200"> <br>
 </a>
         ♦️ <b>Legendado</b> — A legenda inclui a tradução de todos os diálogos,textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
-<small>(Caso você queira <i>saborear</i> as falas originais, Vanilla, do jeito que veio ao mundo)</small>
+<small>(Caso você queira <i>saborear</i> as vozes originais, do jeito que veio ao mundo)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk">
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
@@ -58,7 +58,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 * #### Linux (Mint)
 É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80). Estamos buscando informações de feedbacks acerca do funcionamento do mod em outras distros Linux, caso você queira colaborar e/ou saiba de informações sobre o assunto ficaremos gratos em conversar.<br>
 * #### Mac 
-Aí é foda kkkkk. No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
+No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
@@ -71,4 +71,4 @@ Aí é foda kkkkk. No momento não recebemos muitas demandas de build para MacOS
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
  
- ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os recém-empregados deste ano e um feliz 2026!!!</small>
+ ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os recém-empregados deste ano e um feliz ENA DAY 2026!!!</small>
