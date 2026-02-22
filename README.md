@@ -66,7 +66,7 @@ No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos
 <b>Pasokad</b> ▸ Tradução 〢 Imagens<br>
 <b>Sam</b> ▸ Tradução<br>
 <b>Solurio</b> ▸ Programação<br>
-<b>Apolo</b> ▸ Revisão<br>
+<b>ApoloDaisuke</b> ▸ Revisão<br>
 <b>Dionysus</b> ▸ Tradução<br><br>
 <b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
 <b>Bixin</b> ▸ Ajuda em 3D<br>
