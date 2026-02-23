@@ -4,7 +4,7 @@
 <div align="center">
    <img src="br_jongs.png" width="75">
   <h1> Nonkey Jong Team <br> </h1>
-  <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
+  <p>🇧🇷 Fã-tradução do jogo: ENA: Dream BBQ 🎭<br>
   Jogo por: Joel Guerra
   
 
@@ -33,21 +33,21 @@
 <a href="https://drive.google.com/file/d/1GpWzSv5JoRlpjdybT9h-xpmVuegJSo6w/view?usp=sharing">
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
-        🔷 <b>Dublagem Parcial</b> — Mantém diversidade de idiomas, dublando apenas<br> os personagens falantes originais de inglês para o português.<br> 
+        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas<br> personagens que originalmente falam inglês para o português..<br> 
 <small>(Extremamente recomendado caso seja sua primeira experiência, e queira dublado)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1pKhg7zu4F0AqBp7W0lBO6cr7yIoyTSSZ/view?usp=sharing">
 <img src="xp_ena_completa.png" align="right" width="200"> <br>
 </a> 
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estaram dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ǝna)</small>
+        🔶 <b>Dublagem Completa</b> — Todos os personagens estarão dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ǝna)</small>
 <br><br><br>
         
-## Passo 2: Como Instalar a tradução?   
+## Passo 2: Como instalar a tradução?   
 ###### <i>( *Ficou confuso? Pera que tem vídeo [Aqui](https://youtu.be/LimBAxz5ouI)!* )</i>
-1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
-    * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ƎNA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
-2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA Dream BBQ" e confirme em substituir para todos os arquivos.*<br><br>
-    * *Após abrir o jogo (e se tudo for instalado corretamente) ele irá fechar e reabrir sozinho, mas só da primeira vez.*<br><br>
+1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo da pasta do computador em que você o baixou.<br><br>
+    * *Para fazer isto, você pode ir na sua Biblioteca da Steam, encontrar *ƎNA DREAM BBQ* e clicar com o botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
+2. *Agora, com o arquivo .zip da tradução que você escolheu, mova todos os arquivos para a pasta "ENA Dream BBQ" e confirme em "substituir para todos os arquivos".*<br><br>
+    * *Após abrir o jogo (e se tudo for instalado corretamente), ele irá fechar e reabrir sozinho, mas só da primeira vez.*<br><br>
 
 #### Dúvidas ou problemas? <br>
 Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servidor do Discord na aba [#ajuda-e-sugestões](https://discord.gg/pxX6cnkHV7), lá nós poderemos lhe ajudar pessoalmente com o seu problema. 🤙<br><br>
@@ -55,13 +55,13 @@ Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servid
 * #### Links diretos
 Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões. <br>
 * #### Dublagem
-Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
+Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**]([https://www.youtube.com/@voiddublagens](https://www.youtube.com/@GhostClematisOFC)) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 * #### Linux
-É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam (recomendamos a 9.0-4 ou superior) e colocando o comando ( **WINEDLLOVERRIDES="winhttp=n,b" %command%** ) nas **OPÇÕES DE INICIALIZAÇÃO** clicando com o botão direito no jogo e indo em: **Propriedades** > **Geral**.<br>
+É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia, é completamente possível rodar o mod do jogo usando o Proton da Steam (recomendamos a 9.0-4 ou superior) e colocando o comando ( **WINEDLLOVERRIDES="winhttp=n,b" %command%** ) nas **OPÇÕES DE INICIALIZAÇÃO** clicando com o botão direito no jogo e indo em: **Propriedades** > **Geral**.<br>
 * #### Mac 
-No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
+No momento não recebemos muitas demandas de build para MacOS, todavia, aceitamos sugestões e ajudas que viabilizem um possível port futuro. <br>
 * #### Feedback
-Caso você tenha identificado um erro como um bug ou um texto mal traduzido estaremos felizes em consertá-lo, por isso por favor nos contate na sessão [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
+Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, estaremos felizes em consertá-lo, por isso por favor nos contate na seção [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>[Demetrius](https://x.com/iidkdeme)</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
