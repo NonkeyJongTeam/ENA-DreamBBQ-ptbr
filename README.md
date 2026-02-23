@@ -61,7 +61,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 * #### Mac 
 No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
 * #### Feedback
-Caso você tenha identificado um erro como um bug ou um texto mal traduzido estaremos felizes em consertá-lo, por isso por favor nos contate na sessão [#feedbacks-erros-sujestões](https://discord.gg/SBe3drzkAr). <br>
+Caso você tenha identificado um erro como um bug ou um texto mal traduzido estaremos felizes em consertá-lo, por isso por favor nos contate na sessão [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>[Demetrius](https://x.com/iidkdeme)</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
