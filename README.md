@@ -34,7 +34,7 @@
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
         🔷 <b>Dublagem Parcial</b> — Mantém diversidade de idiomas, dublando apenas<br> os personagens falantes originais de inglês para o português.<br> 
-<small>(Recomendado caso seja sua primeira experiência)</small>
+<small>(Extremamente recomendado caso seja sua primeira experiência, e queira dublado)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk">
 <img src="xp_ena_completa.png" align="right" width="200"> <br>
