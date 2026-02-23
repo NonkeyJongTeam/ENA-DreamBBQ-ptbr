@@ -55,7 +55,7 @@ Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servid
 * #### Links diretos
 Temos notado que a tradução está circulando por meio de uploads não oficiais. Pedimos que não façam isso, é fácil uma versão antiga se espalhar enquanto uma nova já está disponível. Por isso privamos as versões antigas. Se for postar em fóruns, grupos ou servidores, recomendamos que use o link oficial do nosso *Github* e/ou do nosso *servidor no Discord*. Não nos responsabilizamos por quaisquer danos à sua segurança, vindo de outras versões. <br>
 * #### Dublagem
-Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**]([https://www.youtube.com/@voiddublagens](https://www.youtube.com/@GhostClematisOFC)) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
+Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 * #### Linux
 É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia, é completamente possível rodar o mod do jogo usando o Proton da Steam (recomendamos a 9.0-4 ou superior) e colocando o comando ( **WINEDLLOVERRIDES="winhttp=n,b" %command%** ) nas **OPÇÕES DE INICIALIZAÇÃO** clicando com o botão direito no jogo e indo em: **Propriedades** > **Geral**.<br>
 * #### Mac 
