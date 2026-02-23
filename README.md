@@ -59,6 +59,8 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã
 É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80). Estamos buscando informações de feedbacks acerca do funcionamento do mod em outras distros Linux, caso você queira colaborar e/ou saiba de informações sobre o assunto ficaremos gratos em conversar.<br>
 * #### Mac 
 No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
+* #### Feedback
+Por favor, caso você tenha identificado um erro como um bug ou um texto mal traduzido estaremos felizes em consertá-lo, por isso por favor nos contate na sessão. <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
