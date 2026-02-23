@@ -24,7 +24,7 @@
 
 ## Passo 1: Escolha uma versão 
 ###### O jogo atualmente conta com 3 versões do 1° capítulo.
-<a href="https://drive.google.com/file/d/1yLJjomxeI3ueIrW9pMcPH95D-BvrapMJ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1lR8OZNTQBLqOHWqXgHRHHpxAs-RF74PZ/view?usp=sharing">
  <img src="xp_ena_legenda.png" align="right" width="200"> <br>
 </a>
         ♦️ <b>Legendado</b> — A legenda inclui tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
