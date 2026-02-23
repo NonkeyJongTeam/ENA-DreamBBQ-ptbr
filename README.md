@@ -43,11 +43,12 @@
 <br><br><br>
         
 ## Passo 2: Como Instalar a tradução?   
-###### <i>(heh heh heh heh heh)</i>
+###### <i>( *Ficou confuso? Pera que tem vídeo [Aqui](https://www.youtube.com/watch?v=K19Bynj_AXo)!* )</i>
 1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ƎNA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA Dream BBQ" e confirme em substituir para todos os arquivos.*<br><br>
-    * *Ficou confuso? Pera que tem vídeo [Aqui](https://www.youtube.com/watch?v=K19Bynj_AXo)!* <br><br>
+    * *Após abrir o jogo (e se tudo for instalado corretamente) ele irá fechar e reabrir sozinho, mas só pela primeira vez.*<br><br>
+
 #### Dúvidas ou problemas? <br>
 Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servidor do Discord na aba [#ajuda-e-sugestões](https://discord.gg/pxX6cnkHV7), lá nós poderemos lhe ajudar pessoalmente com o seu problema. 🤙<br><br>
 ## Problemas conhecidos e considerações
@@ -56,7 +57,7 @@ Temos notado que a tradução está circulando por meio de uploads não oficiais
 * #### Dublagem
 Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pela Equipe de fã dublagem [**Ghost Clematis**](https://www.youtube.com/@voiddublagens) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 * #### Linux (Mint)
-É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam seguindo [este tutorial](https://www.youtube.com/watch?v=QOvynW2gv80). Estamos buscando informações de feedbacks acerca do funcionamento do mod em outras distros Linux, caso você queira colaborar e/ou saiba de informações sobre o assunto ficaremos gratos em conversar.<br>
+É do nosso conhecimento a (possivelmente temporária) falta de build nativa para Linux, todavia é completamente possivel rodar o mod do jogo usando o Proton da Steam. Estamos buscando informações de feedbacks acerca do funcionamento do mod em outras distros Linux, caso você queira colaborar e/ou saiba de informações sobre o assunto ficaremos gratos em conversar.<br>
 * #### Mac 
 No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos sugestões e ajudas que viabilizassem um possivel port futuro. <br>
 * #### Feedback
