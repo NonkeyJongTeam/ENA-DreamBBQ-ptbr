@@ -2,7 +2,8 @@
 
  
 <div align="center">
-  <h1> Nonkey Jong Team <br> <img src="br_jongs.png" width="50"></h1>
+   <img src="br_jongs.png" width="100">
+  <h1> Nonkey Jong Team <br> </h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
   Jogo por Joel Guerra
   
@@ -13,7 +14,6 @@
 [![Static Badge](https://img.shields.io/badge/1-grey?label=Cap%C3%ADtulo&color=%23317a91)](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ)
 [![Static Badge](https://img.shields.io/badge/Linux%20Mint-green?color=%2392b662)](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ)
 [![Static Badge](https://img.shields.io/badge/Windows-green?color=%230178d6)](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ)
-[![Static Badge](https://img.shields.io/badge/Sem%20MacOS-green?color=red)](https://store.steampowered.com/app/2134320/ENA_Dream_BBQ)
 <br>
 [![X (formerly Twitter) Siga](https://img.shields.io/twitter/follow/%40nonkeyjongtrans?&logo=x&label=nonkeyjongtrans)](https://x.com/nonkeyjongtrans)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
@@ -33,7 +33,7 @@
 <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk">
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
-        🔷 <b>Dublagem Parcial</b> — Mantém diversidade de idiomas, dublando apenas os personagens falantes originais de inglês para o português.<br> 
+        🔷 <b>Dublagem Parcial</b> — Mantém diversidade de idiomas, dublando apenas<br> os personagens falantes originais de inglês para o português.<br> 
 <small>(Recomendado caso seja sua primeira experiência)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1F-9fKTCoJR9Kq4WxIAV9XuDyOJaYGZ87/view?usp=drivesdk">
