@@ -5,7 +5,7 @@
    <img src="br_jongs.png" width="100">
   <h1> Nonkey Jong Team <br> </h1>
   <p>🇧🇷 Fã tradução do jogo: ENA: Dream BBQ 🎭<br>
-  Jogo por Joel Guerra
+  Jogo por: Joel Guerra
   
 
 
