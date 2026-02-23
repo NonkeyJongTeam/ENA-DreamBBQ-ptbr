@@ -63,7 +63,7 @@ No momento não recebemos muitas demandas de build para MacOS, todavia aceitamos
 * #### Feedback
 Caso você tenha identificado um erro como um bug ou um texto mal traduzido estaremos felizes em consertá-lo, por isso por favor nos contate na sessão [#feedbacks-erros-sujestões](https://discord.gg/SBe3drzkAr). <br>
 ## Créditos Capítulo 1: Porta Solitária
-<b>Demetrius</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
+<b>[Demetrius](https://x.com/iidkdeme)</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
 <b>Iggy</b> ▸ Tradução 〢 Revisão 〢 Vídeos e Imagens<br>
 <b>Pasokad</b> ▸ Tradução 〢 Imagens<br>
