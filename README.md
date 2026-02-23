@@ -47,7 +47,7 @@
 1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo de qual pasta do seu computador você baixou.<br><br>
     * *Para fazer isto você pode ir na sua Biblioteca da Steam, encontre *ƎNA DREAM BBQ* e clique com botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu mova todos os arquivos para a pasta "ENA Dream BBQ" e confirme em substituir para todos os arquivos.*<br><br>
-    * *Após abrir o jogo (e se tudo for instalado corretamente) ele irá fechar e reabrir sozinho, mas só pela primeira vez.*<br><br>
+    * *Após abrir o jogo (e se tudo for instalado corretamente) ele irá fechar e reabrir sozinho, mas só da primeira vez.*<br><br>
 
 #### Dúvidas ou problemas? <br>
 Está tendo problemas? Não tema! Entre em contato com a gente pelo nosso servidor do Discord na aba [#ajuda-e-sugestões](https://discord.gg/pxX6cnkHV7), lá nós poderemos lhe ajudar pessoalmente com o seu problema. 🤙<br><br>
