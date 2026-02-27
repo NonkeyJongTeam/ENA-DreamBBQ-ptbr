@@ -60,9 +60,9 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
 ## Dublagem
 
 <div align="center">
-   <img src="ghost logo.png" width="150"> 
+   <img src="ghost logo.png" width="90"> 
    ㅤ
-   <img src="void dublagens.png" width="150"> 
+   <img src="void dublagens.png" width="90"> 
 </div>
 <br>
 
