@@ -24,13 +24,13 @@
 <a href="https://drive.google.com/file/d/1lR8OZNTQBLqOHWqXgHRHHpxAs-RF74PZ/view?usp=sharing">
  <img src="xp_ena_legenda.png" align="right" width="200"> <br>
 </a>
-        ♦️ <b>Legendado</b> — A legenda inclui tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+♦️ <b>Legendado</b> — A legenda inclui tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
 <small>(Caso você queira <i>saborear</i> as vozes originais, do jeito que veio ao mundo)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1GpWzSv5JoRlpjdybT9h-xpmVuegJSo6w/view?usp=sharing">
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
-        🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas<br> personagens que originalmente falam inglês para o português..<br> 
+🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas<br> personagens que originalmente falam inglês para o português..<br> 
 <small>(Extremamente recomendado caso seja sua primeira experiência, e queira dublado)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1pKhg7zu4F0AqBp7W0lBO6cr7yIoyTSSZ/view?usp=sharing">
