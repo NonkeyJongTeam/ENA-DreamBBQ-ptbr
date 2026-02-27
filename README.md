@@ -58,8 +58,14 @@ No momento não recebemos muitas demandas de build para MacOS, todavia, aceitamo
 * #### Feedback
 Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, estaremos felizes em consertá-lo, por isso por favor nos contate na seção [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
 ## Dublagem
+
+<div style="display: flex; justify-content: center; gap: 120px;">
+  <img src="ghost logo.png" width="200">
+  <img src="void dublagens.png" width="200">
+</div>
+
 <div align="center">
-   <img src="ghost logo.png" width="150"style="margin-right: 60px;"> 
+   <img src="ghost logo.png" width="150"> 
    <img src="void dublagens.png" width="150"> 
 </div>
 
@@ -71,7 +77,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Trix</b> ▸ Edição e Mixagem<br><br>
 
 <b>Krisouls</b> ▸ Ena Vendedora<br>
-<b>Mikaela</b> ▸ Ena Malvada<br>
+<b>Mikaela</b> ▸ Ena Malvada, Ressaca<br>
 <b>Gustavo Ribas</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Acumulador Alex<br>
@@ -89,7 +95,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
 <b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
 <b>Brandeskitos</b> ▸ Kane<br>
-<b>Charlie Ceotto</b> ▸ Coral Glasses 〢 Mitu<br>
+<b>Dubs com a cha</b> ▸ Coral Glasses 〢 Mitu<br>
 <b>Zk</b> ▸ O Bus<br>
 <b>Baianores</b> ▸ Leiloeiro<br>
 
