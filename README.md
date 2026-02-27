@@ -72,15 +72,15 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 
 <b>Krisouls</b> ▸ Ena Vendedora<br>
 <b>Mikaela</b> ▸ Ena Malvada<br>
-<b>Gustavo Ribas</b> ▸ Froggy, Homem Suspeito, Frank Imperdoável<br>
+<b>Gustavo Ribas</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
-<b>Artupente</b> ▸ Hoarder Alex<br>
+<b>Artupente</b> ▸ Acumulador Alex<br>
 <b>Giovanna Gregório</b> ▸ Recepcionista<br>
 <b>Messy Moon</b> ▸ Shoryo<br>
-<b>Tiago Holles</b> ▸ Counter Eye, Socio<br>
-<b>Oliveira</b> ▸ Doom<br>
-<b>Nycrow</b> ▸ Creise<br>
-<b>Big R</b> ▸ Túmulos, Phindoll<br>
+<b>Tiago Holles</b> ▸ Counter Eye 〢 Taxista (SOCIO)<br>
+<b>Oliveira</b> ▸ Taxista (DOOM) <br>
+<b>Nycrow</b> ▸ Taxista (CREISE)<br>
+<b>Big R</b> ▸ Túmulos 〢 Phindoll<br>
 <b>Ana Beresil</b> ▸ Linda<br>
 <b>Claire Goodend</b> ▸ Laurel<br>
 <b>Davi Retfield</b> ▸ Laura<br>
@@ -89,8 +89,8 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
 <b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
 <b>Brandeskitos</b> ▸ Kane<br>
-<b>Charlie Ceotto</b> ▸ Coral Glasses, Mitu<br>
-<b>Zk</b> ▸ The Bus<br>
+<b>Charlie Ceotto</b> ▸ Coral Glasses 〢 Mitu<br>
+<b>Zk</b> ▸ O Bus<br>
 <b>Baianores</b> ▸ Leiloeiro<br>
 
 ## Créditos Capítulo 1: Porta Solitária
