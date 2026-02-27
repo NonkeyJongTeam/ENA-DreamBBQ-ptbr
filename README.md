@@ -59,13 +59,9 @@ No momento não recebemos muitas demandas de build para MacOS, todavia, aceitamo
 Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, estaremos felizes em consertá-lo, por isso por favor nos contate na seção [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
 ## Dublagem
 
-<div style="display: flex; justify-content: center; gap: 120px;">
-  <img src="ghost logo.png" width="200">
-  <img src="void dublagens.png" width="200">
-</div>
-
 <div align="center">
    <img src="ghost logo.png" width="150"> 
+   ㅤㅤㅤㅤ
    <img src="void dublagens.png" width="150"> 
 </div>
 
