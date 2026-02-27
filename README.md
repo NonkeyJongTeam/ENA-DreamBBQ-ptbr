@@ -61,6 +61,10 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
 <div align="center">
    <img src="ghost logo.png" width="150"style="margin-right: 60px;"> 
    <img src="void dublagens.png" width="150"> 
+</div>
+
+Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
+
 
 <b>Krisouls</b> ▸ Adaptação de roteiro<br>
 <b>Mikaela</b> ▸ Adaptação de roteiro<br>
@@ -88,9 +92,7 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
 <b>Opallis</b> ▸ Maude<br>
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
 <b>Baianores</b> ▸ Leiloeiro<br>
-</div>
 
-Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 ## Créditos Capítulo 1: Porta Solitária
 <b>[Demetrius](https://x.com/iidkdeme)</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
 <b>[Zoti](https://x.com/zoti_n)</b> ▸ Tradução 〢 Programação 〢 Vídeos e Imagens<br>
