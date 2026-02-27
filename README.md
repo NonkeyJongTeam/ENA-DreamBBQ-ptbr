@@ -85,7 +85,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Claire Goodend</b> ▸ Laurel<br>
 <b>Davi Retfield</b> ▸ Laura<br>
 <b>Opallis</b> ▸ Maude<br>
-<b>Trix</b> ▸ Taski Maiden, Dahlia, Cachorro Ampulheta<br>
+<b>Trix</b> ▸ Taski Maiden 〢 Dahlia 〢 Cão-Ampulheta<br>
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
 <b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
 <b>Brandeskitos</b> ▸ Kane<br>
