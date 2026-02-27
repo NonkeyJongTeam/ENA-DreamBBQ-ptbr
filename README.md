@@ -64,6 +64,7 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
    ㅤㅤㅤㅤ
    <img src="void dublagens.png" width="150"> 
 </div>
+<br>
 
 Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 
