@@ -61,6 +61,33 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
 <div align="center">
    <img src="ghost logo.png" width="150"style="margin-right: 60px;"> 
    <img src="void dublagens.png" width="150"> 
+
+<b>Krisouls</b> ▸ Adaptação de roteiro<br>
+<b>Mikaela</b> ▸ Adaptação de roteiro<br>
+<b>Trix</b> ▸ Edição e Mixagem<br><br>
+
+<b>Joo Migs</b> ▸ Bunrako-man, Xamã<br>
+<b>Charlie Ceotto</b> ▸ Coral Glasses, Mitu<br>
+<b>Tiago Holles</b> ▸ Counter Eye, Socio<br>
+<b>Odair Santos</b> ▸ Dratula<br>
+<b>Trix</b> ▸ Dahlia, Taski Maiden, Cachorro Ampulheta<br>
+<b>Krisouls</b> ▸ Ena Vendedora<br>
+<b>Mikaela</b> ▸ Ena Malvada<br>
+<b>Gustavo Ribas</b> ▸ Froggy, Homem Suspeito, Frank Imperdoável<br>
+<b>Big R</b> ▸ Túmulos, Phindoll<br>
+<b>Artupente</b> ▸ Hoarder Alex<br>
+<b>Brandeskitos</b> ▸ Kane<br>
+<b>Messy Moon</b> ▸ Shoryo<br>
+<b>Nycrow</b> ▸ Creise<br>
+<b>Oliveira</b> ▸ Doom<br>
+<b>Zk</b> ▸ The Bus<br>
+<b>Giovanna Gregório</b> ▸ Recepcionista<br>
+<b>Ana Beresil</b> ▸ Linda<br>
+<b>Claire Goodend</b> ▸ Laurel<br>
+<b>Davi Retfield</b> ▸ Laura<br>
+<b>Opallis</b> ▸ Maude<br>
+<b>Mitsu Toshiyuki</b> ▸ Theodora<br>
+<b>Baianores</b> ▸ Leiloeiro<br>
 </div>
 
 Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
