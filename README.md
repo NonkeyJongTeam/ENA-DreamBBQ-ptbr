@@ -70,27 +70,27 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Mikaela</b> ▸ Adaptação de roteiro<br>
 <b>Trix</b> ▸ Edição e Mixagem<br><br>
 
-<b>Joo Migs</b> ▸ Bunrako-man, Xamã<br>
-<b>Charlie Ceotto</b> ▸ Coral Glasses, Mitu<br>
-<b>Tiago Holles</b> ▸ Counter Eye, Socio<br>
-<b>Odair Santos</b> ▸ Dratula<br>
-<b>Trix</b> ▸ Dahlia, Taski Maiden, Cachorro Ampulheta<br>
 <b>Krisouls</b> ▸ Ena Vendedora<br>
 <b>Mikaela</b> ▸ Ena Malvada<br>
 <b>Gustavo Ribas</b> ▸ Froggy, Homem Suspeito, Frank Imperdoável<br>
-<b>Big R</b> ▸ Túmulos, Phindoll<br>
+<b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Hoarder Alex<br>
-<b>Brandeskitos</b> ▸ Kane<br>
-<b>Messy Moon</b> ▸ Shoryo<br>
-<b>Nycrow</b> ▸ Creise<br>
-<b>Oliveira</b> ▸ Doom<br>
-<b>Zk</b> ▸ The Bus<br>
 <b>Giovanna Gregório</b> ▸ Recepcionista<br>
+<b>Messy Moon</b> ▸ Shoryo<br>
+<b>Tiago Holles</b> ▸ Counter Eye, Socio<br>
+<b>Oliveira</b> ▸ Doom<br>
+<b>Nycrow</b> ▸ Creise<br>
+<b>Big R</b> ▸ Túmulos, Phindoll<br>
 <b>Ana Beresil</b> ▸ Linda<br>
 <b>Claire Goodend</b> ▸ Laurel<br>
 <b>Davi Retfield</b> ▸ Laura<br>
 <b>Opallis</b> ▸ Maude<br>
+<b>Trix</b> ▸ Taski Maiden, Dahlia, Cachorro Ampulheta<br>
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
+<b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
+<b>Brandeskitos</b> ▸ Kane<br>
+<b>Charlie Ceotto</b> ▸ Coral Glasses, Mitu<br>
+<b>Zk</b> ▸ The Bus<br>
 <b>Baianores</b> ▸ Leiloeiro<br>
 
 ## Créditos Capítulo 1: Porta Solitária
