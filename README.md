@@ -76,8 +76,8 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Mikaela</b> ▸ Adaptação de roteiro<br>
 <b>Trix</b> ▸ Edição e Mixagem<br><br>
 
-<b>Krisouls</b> ▸ Ena (Vendedora)<br>
-<b>Mikaela</b> ▸ Ena (Malvada, Ressaca)<br>
+<b>Krisouls</b> ▸ ENA (Vendedora)<br>
+<b>Mikaela</b> ▸ ENA (Malvada, Ressaca)<br>
 <b>Gustavo Ribas</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Acumulador Alex<br>
