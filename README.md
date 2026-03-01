@@ -69,9 +69,9 @@ Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, es
 Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de fã-dublagem [**Ghost Clematis**](https://www.youtube.com/@GhostClematisOFC) e [**Void Dublagens**](https://www.youtube.com/@voiddublagens). Nós só a colocamos no jogo e adaptamos as legendas, então todos os créditos e direitos são deles pelas versões dubladas. <br>
 
 
-<b>Krisouls</b> ▸ Adaptação de roteiro<br>
+<b>Krisouls</b> ▸ Direção de dublagem e Adaptação de roteiro<br>
+<b>Trix</b> ▸ Direção de dublagem, Edição e Mixagem<br><br>
 <b>Mikaela</b> ▸ Adaptação de roteiro<br>
-<b>Trix</b> ▸ Edição e Mixagem<br><br>
 
 <b>Krisouls</b> ▸ ENA (Vendedora)<br>
 <b>Mikaela</b> ▸ ENA (Malvada, Ressaca)<br>
