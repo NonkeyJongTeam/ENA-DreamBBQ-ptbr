@@ -70,8 +70,8 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 
 
 <b>Krisouls</b> ▸ Direção de dublagem e Adaptação de roteiro<br>
-<b>Trix</b> ▸ Direção de dublagem, Edição e Mixagem<br><br>
-<b>Mikaela</b> ▸ Adaptação de roteiro<br>
+<b>Trix</b> ▸ Direção de dublagem, Edição e Mixagem<br>
+<b>Mikaela</b> ▸ Adaptação de roteiro<br><br>
 
 <b>Krisouls</b> ▸ ENA (Vendedora)<br>
 <b>Mikaela</b> ▸ ENA (Malvada, Ressaca)<br>
