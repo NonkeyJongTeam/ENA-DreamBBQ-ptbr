@@ -30,9 +30,9 @@
 <a href="https://drive.google.com/file/d/1Qpg3r85feCVwPcJ8-nMGnVTgp-yb096c/view?usp=drivesdk">
  <img src="xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
-🔷 <b>Dublagem Parcial</b> — Mantém a diversidade de idiomas, dublando apenas<br> personagens que originalmente falam inglês para o português..<br> 
-<small>(Extremamente recomendado caso seja sua primeira experiência, e queira dublado)</small>
-<br><br><br>
+🔷 <b>Dublagem Parcial</b> — O jogo apresenta personagens que falam vários idiomas. Nesta versão, apenas os personagens que falam inglês estarão dublados para o português, mantendo todos os outros idiomas originais. Ou seja, um personagem que fala japonês continuará falando japonês.<br><br>
+<small>(O jogo está totalmente dublado em português nas partes em inglês, preservando os personagens que falam outros idiomas. Extremamente recomendado caso seja sua primeira experiência e queira jogar dublado)</small><br><br><br>
+
 <a href="https://drive.google.com/file/d/1QDzNfD4Qb6NqOT_irUOygAvWZcKpnW1Z/view?usp=drivesdk">
 <img src="xp_ena_completa.png" align="right" width="200"> <br>
 </a> 
