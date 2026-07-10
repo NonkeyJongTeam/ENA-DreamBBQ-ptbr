@@ -1,1 +1,7 @@
-{ "Press any key to continue...", "Aperte ronaldo tecla para continuar..." },
+{ "Last Saved: ", "Último Save: " },
+{ "Less than a minute ago", "Menos de um minuto atrás" },
+{ "1 minute ago", "1 minuto atrás" },
+{ "(IN-GAME TIME)", "(TEMPO NO JOGO)" },
+{ "(REAL TIME)", "(TEMPO REAL)" },
+{ "(PHYSICS TIME)", "(TEMPO FÍSICO)" },
+{ "NOT FOR ENA", "NÃO É PARA ENA" }
