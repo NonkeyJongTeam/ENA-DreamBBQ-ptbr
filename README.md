@@ -43,7 +43,7 @@
 <br><br><br>
         
 ## Passo 2: Como instalar a tradução?   
-###### <i>( *Ficou confuso? Pera que tem vídeo [Aqui](https://youtu.be/LimBAxz5ouI)!* )</i>
+#### <i>( *Ficou confuso? Pera que tem vídeo [Aqui](https://youtu.be/LimBAxz5ouI)!* )</i>
 1. Abra a pasta onde você baixou *ƎNA*. Isso pode variar dependendo da pasta do computador em que você o baixou.<br><br>
     * *Para fazer isto, você pode ir na sua Biblioteca da Steam, encontrar *ƎNA DREAM BBQ* e clicar com o botão direito do mouse no jogo > Gerenciar > Explorar arquivos locais.*<br><br>
 2. *Agora, com o arquivo .zip da tradução que você escolheu, mova todos os arquivos para a pasta "ENA Dream BBQ" e confirme em "substituir para todos os arquivos".*<br><br>
