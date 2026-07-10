@@ -24,13 +24,13 @@
 <a href="https://drive.google.com/file/d/1CmS7Bkh1EHPVwdQjCSxiBypCo7UNVzkJ/view?usp=drivesdk">
  <img src="git_assets/xp_ena_legenda.png" align="right" width="200"> <br>
 </a>
-♦️ <b>Legendado</b> — A legenda inclui tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
+♦️ <b>Apenas legendado</b> — A legenda inclui tradução de todos os diálogos, textos, texturas e cutscenes do jogo, sendo focada apenas na tradução dos textos.<br>
 <small>(Caso você queira <i>saborear</i> as vozes originais, do jeito que veio ao mundo)</small>
 <br><br><br>
 <a href="https://drive.google.com/file/d/1Qpg3r85feCVwPcJ8-nMGnVTgp-yb096c/view?usp=drivesdk">
  <img src="git_assets/xp_ena_parcial.png" align="right" width="200"> <br>
 </a>
-🔷 <b>Dublagem Parcial</b> — O jogo apresenta personagens que falam vários idiomas. Nesta versão, apenas os personagens que falam inglês estarão dublados para o português, mantendo todos os outros idiomas originais. Ou seja, um personagem que fala japonês continuará falando japonês.<br><br>
+🔷 <b>Dublado e legendado </b> — O jogo apresenta personagens que falam vários idiomas. Nesta versão, apenas os personagens que falam inglês estarão dublados para o português, mantendo todos os outros idiomas originais. Ou seja, um personagem que fala japonês continuará falando japonês.<br><br>
 <small>(O jogo está totalmente dublado em português nas partes em inglês, preservando os personagens que falam outros idiomas. Extremamente recomendado caso seja sua primeira experiência e queira jogar dublado)</small><br><br><br>
 
 ## Extra: para você que já jogou.
@@ -39,7 +39,7 @@
 <a href="https://drive.google.com/file/d/1QDzNfD4Qb6NqOT_irUOygAvWZcKpnW1Z/view?usp=drivesdk">
 <img src="git_assets/xp_ena_completa.png" align="right" width="200"> <br>
 </a> 
-        🔶 <b>Dublagem Completa</b> — Todos os personagens estarão dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ǝna)</small>
+        🔶 <b>Dublagem extra</b> — Todos os personagens estarão dublados, independentemente do idioma.<br> <small>(Para você que já fez tudo do jogo e quer dar algumas risadas com essa nova <br> experiência de Ǝna)</small>
 <br><br><br>
         
 ## Passo 2: Como instalar a tradução?   
