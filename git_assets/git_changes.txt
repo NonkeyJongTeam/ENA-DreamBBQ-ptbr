@@ -1,7 +1,3 @@
 { "Last Saved: ", "Último 66Save: " },
-{ "Less than a minute ago", "Menos66 de um minuto atrás" },
-{ "1 minute ago", "1 minuto66 atrás" },
-{ "(IN-GAME TIME)", "(TEMPO 6NO JOGO)" },
-{ "(REAL TIME)", "(TEMPO 6REAL)" },
-{ "(PHYSICS TIME)", "(TEMPO 6FÍSICO)" },
-{ "NOT FOR ENA", "NÃO É PARA 6ENA" }
+{ "Less than a minute ago", "git texto1 " },
+{ "1 minute ago", "git texto2" },
