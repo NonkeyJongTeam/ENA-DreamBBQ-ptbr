@@ -1,1 +1,1 @@
-testea
+{ "Press any key to continue...", "Aperte ronaldo tecla para continuar..." },
