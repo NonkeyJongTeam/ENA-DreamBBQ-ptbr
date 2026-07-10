@@ -1,2 +1,1 @@
 { "Press any key to continue...", "Aperte ronaldo tecla para continuar..." },
-{ "Press any key toa continue...", "Aperte ronaldo tecla para continuar..." },
