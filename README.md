@@ -59,8 +59,8 @@ Temos notado que a tradução está circulando por meio de uploads não oficiais
 * #### Mac 
 No momento não recebemos muitas demandas de build para MacOS, todavia, aceitamos sugestões e ajudas que viabilizem um possível port futuro. <br>
 * #### Feedback
-Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, estaremos felizes em consertá-lo, por isso por favor nos contate na seção [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br>
-## Dublagem
+Caso você tenha identificado um erro, como um bug ou um texto mal traduzido, estaremos felizes em consertá-lo, por isso por favor nos contate na seção [#feedbacks-erros-sugestões](https://discord.gg/SBe3drzkAr). <br> <br>
+## Sobre a Dublagem!
 
 <div align="center">
    <img src="git_assets/ghost logo.png" width="90"> 
