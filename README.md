@@ -108,6 +108,10 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Solurio</b> ▸ Programação<br>
 <b>ApoloDaisuke</b> ▸ Revisão<br>
 <b>Dionysus</b> ▸ Tradução<br><br>
-<b>Abigail_8bits</b> ▸ Ajuda em 3D<br>
-<b>Bixin</b> ▸ Ajuda em 3D<br>
- ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! (Agradecimento especial para toast_buns) Desejamos um bom trabalho a todos os CLTs e um feliz ƎNA DAY 2026!!!</small>
+
+
+<b>Abigail_8bits</b> ▸ Ajuda em 3D 〢 "DORES" letras dançantes na mitu.<br>
+<b>Bixin</b> ▸ Ajuda em 3D Letreiro 〢 "Atingir o ponto fraco do Chefe" e "Meta de trabalho" <br>
+<b>Toast_buns</b> ▸ Suporte em Edição de Vídeo.<br><br>
+ 
+ ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os CLTs e um feliz ƎNA DAY 2026!!!</small>
