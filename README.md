@@ -76,14 +76,14 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Trix</b> ▸ Direção de dublagem, Edição e Mixagem<br>
 <b>Mikaela</b> ▸ Adaptação de roteiro<br><br>
 
-<b>Krisouls</b> ▸ ENA (Vendedora)<br>
-<b>Mikaela</b> ▸ ENA (Malvada, Ressaca)<br>
+<b>[Krisouls](https://www.youtube.com/@GhostClematisOFC)</b> ▸ ENA (Vendedora)<br>
+<b>[Mikaela](https://youtube.com/@mikaeladubs?si=f32dzDrkgUSguJoH)</b> ▸ ENA (Malvada, Ressaca)<br>
 <b>Gustavo Ribas</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Acumulador Alex<br>
 <b>Giovanna Gregório</b> ▸ Recepcionista<br>
 <b>Messy Moon</b> ▸ Shoryo<br>
-<b>Tiago Holles</b> ▸ Counter Eye 〢 Taxista (SOCIO)<br>
+<b>[Tiago Holles](https://youtube.com/@tiagoholles?si=XRgcY1UCPxVT-fnJ)</b> ▸ Counter Eye 〢 Taxista (SOCIO)<br>
 <b>Oliveira</b> ▸ Taxista (DOOM) <br>
 <b>Nycrow</b> ▸ Taxista (CREISE)<br>
 <b>Big R</b> ▸ Túmulos 〢 Phindoll<br>
@@ -91,13 +91,13 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Claire Goodend</b> ▸ Laurel<br>
 <b>Davi Retfield</b> ▸ Laura<br>
 <b>Opallis</b> ▸ Maude<br>
-<b>Trix</b> ▸ Taski Maiden 〢 Dahlia 〢 Cão-Ampulheta<br>
+<b>[Trix](https://youtube.com/@voiddublagens?si=truhUNS66AkmgPy3)</b> ▸ Taski Maiden 〢 Dahlia 〢 Cão-Ampulheta<br>
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
 <b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
 <b>Brandeskitos</b> ▸ Kane<br>
-<b>Dubs com a cha</b> ▸ Coral Glasses 〢 Mitu<br>
+<b>[Dubs com a cha](https://youtube.com/@dubcomchaa?si=CzwDXLTSmzSn1F_m)</b> ▸ Coral Glasses 〢 Mitu<br>
 <b>Zk</b> ▸ O Bus<br>
-<b>Baianores</b> ▸ Leiloeiro<br>
+<b>[Baianores](https://youtube.com/@obaianores?si=CEutMhXyevahbfMT)</b> ▸ Leiloeiro<br>
 
 ## Créditos Capítulo 1: Porta Solitária
 <b>[Demetrius](https://x.com/iidkdeme)</b> ▸ Tradução 〢 Programação 〢 Revisão<br>
