@@ -111,7 +111,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 
 
 <b>Abigail_8bits</b> ▸ Ajuda em 3D 〢 "DORES" letras dançantes na mitu.<br>
-<b>[Bixin](https://www.youtube.com/@Bixin)</b> ▸ Ajuda em 3D Letreiro 〢 "Atingir o ponto fraco do Chefe" e "Meta de trabalho" <br>
+<b>[Bixin](https://www.youtube.com/@Bixin1)</b> ▸ Ajuda em 3D Letreiro 〢 "Atingir o ponto fraco do Chefe" e "Meta de trabalho" <br>
 <b>Toast_buns</b> ▸ Suporte em Edição de Vídeo.<br><br>
  
  ###### <small>Um agradecimento a todos que nos apoiaram e mandaram mensagens positivas para todo o nosso time! Desejamos um bom trabalho a todos os CLTs e um feliz ƎNA DAY 2026!!!</small>
