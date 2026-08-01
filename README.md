@@ -93,7 +93,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 <b>Opallis</b> ▸ Maude<br>
 <b>[Trix](https://youtube.com/@voiddublagens?si=truhUNS66AkmgPy3)</b> ▸ Taski Maiden 〢 Dahlia 〢 Cão-Ampulheta<br>
 <b>Mitsu Toshiyuki</b> ▸ Theodora<br>
-<b>Joo Migs</b> ▸ Xamã, Bunrako-man<br>
+<b>[Joo Migs](https://www.tiktok.com/@joo_migs?_r=1&_t=ZS-98WkRckdKPF)</b> ▸ Xamã, Bunrako-man<br>
 <b>Brandeskitos</b> ▸ Kane<br>
 <b>[Dubs com a cha](https://youtube.com/@dubcomchaa?si=CzwDXLTSmzSn1F_m)</b> ▸ Coral Glasses 〢 Mitu<br>
 <b>Zk</b> ▸ O Bus<br>
