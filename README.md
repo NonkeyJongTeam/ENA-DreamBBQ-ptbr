@@ -78,7 +78,7 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 
 <b>[Krisouls](https://www.youtube.com/@GhostClematisOFC)</b> ▸ ENA (Vendedora)<br>
 <b>[Mikaela](https://youtube.com/@mikaeladubs?si=f32dzDrkgUSguJoH)</b> ▸ ENA (Malvada, Ressaca)<br>
-<b>Gustavo Ribas</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
+<b>[Gustavo Ribas](https://www.youtube.com/@lordetrovador)</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Acumulador Alex<br>
 <b>Giovanna Gregório</b> ▸ Recepcionista<br>
