@@ -78,25 +78,25 @@ Gostou da dublagem? Foi inteiramente feita, dirigida e mixada pelas equipes de f
 
 <b>[Krisouls](https://www.youtube.com/@GhostClematisOFC)</b> ▸ ENA (Vendedora)<br>
 <b>[Mikaela](https://youtube.com/@mikaeladubs?si=f32dzDrkgUSguJoH)</b> ▸ ENA (Malvada, Ressaca)<br>
-<b>[Gustavo Ribas](https://www.youtube.com/@lordetrovador)</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
+<b>[Gustavo Ribas](https://www.instagram.com/redubla_gem?igsh=bzFtZ2Jxa3dybzV4)</b> ▸ Froggy 〢 Homem Suspeito 〢 Frank Imperdoável<br>
 <b>Odair Santos</b> ▸ Dratula<br>
 <b>Artupente</b> ▸ Acumulador Alex<br>
-<b>Giovanna Gregório</b> ▸ Recepcionista<br>
+<b>[Giovanna Gregório](https://www.tiktok.com/@gio_ngregorio?_r=1&_t=ZS-98biCrJRnEo)</b> ▸ Recepcionista<br>
 <b>Messy Moon</b> ▸ Shoryo<br>
 <b>[Tiago Holles](https://youtube.com/@tiagoholles?si=XRgcY1UCPxVT-fnJ)</b> ▸ Counter Eye 〢 Taxista (SOCIO)<br>
 <b>Oliveira</b> ▸ Taxista (DOOM) <br>
 <b>Nycrow</b> ▸ Taxista (CREISE)<br>
-<b>Big R</b> ▸ Túmulos 〢 Phindoll<br>
-<b>Ana Beresil</b> ▸ Linda<br>
-<b>Claire Goodend</b> ▸ Laurel<br>
-<b>Davi Retfield</b> ▸ Laura<br>
+<b>[Big R](https://www.instagram.com/redubla_gem?igsh=bzFtZ2Jxa3dybzV4)</b> ▸ Túmulos 〢 Phindoll<br>
+<b>[Ana Bresil](https://www.instagram.com/anabresil?igsh=MTdhamkwcnpzcnU3Mg==)</b> ▸ Linda<br>
+<b>[Claire Goodend](https://www.instagram.com/claretebomfim?igsh=MW1kZ3lwMWNneXJlaQ==)</b> ▸ Laurel<br>
+<b>[Davi Retfield](https://www.facebook.com/share/1D7hwsg3gE/?mibextid=wwXIfr)</b> ▸ Laura<br>
 <b>Opallis</b> ▸ Maude<br>
 <b>[Trix](https://youtube.com/@voiddublagens?si=truhUNS66AkmgPy3)</b> ▸ Taski Maiden 〢 Dahlia 〢 Cão-Ampulheta<br>
-<b>Mitsu Toshiyuki</b> ▸ Theodora<br>
+<b>[Mariana Sayuri](https://youtube.com/@marianasayuri?si=DSeY61mXa5hfZJpb)</b> ▸ Theodora<br>
 <b>[Joo Migs](https://www.tiktok.com/@joo_migs?_r=1&_t=ZS-98WkRckdKPF)</b> ▸ Xamã, Bunrako-man<br>
-<b>Brandeskitos</b> ▸ Kane<br>
+<b>[Brandeskitos](https://www.instagram.com/brandeskitos_?igsh=MTZyN2xzejNjYjY4NQ==)</b> ▸ Kane<br>
 <b>[Dubs com a cha](https://youtube.com/@dubcomchaa?si=CzwDXLTSmzSn1F_m)</b> ▸ Coral Glasses 〢 Mitu<br>
-<b>Zk</b> ▸ O Bus<br>
+<b>[Zk](https://youtube.com/@nixxzk?si=DHChKHrAsWAb6Vd3)</b> ▸ O Bus<br>
 <b>[Baianores](https://youtube.com/@obaianores?si=CEutMhXyevahbfMT)</b> ▸ Leiloeiro<br>
 
 ## Créditos Capítulo 1: Porta Solitária
