@@ -16,8 +16,11 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCybbEnpGuTmuSPSqz88O3EA?&logo=youtube&label=YouTube)](https://www.youtube.com/@NonkeyJongTeam)
 </div>
 <div align="center">
- <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe.<br><br>
+ <p> Este é um projeto de fã para fã, não é oficial e não temos qualquer relação com o Joel G. e sua equipe.<br>
+     Gmail contato: <b>nonkeyjongtranslations@gmail.com</b>
+    <br>
   </div>
+ 
 
 ## Passo 1: Escolha uma versão 
 ###### O jogo atualmente conta com 3 versões do 1° capítulo.
